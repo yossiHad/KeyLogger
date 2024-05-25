@@ -60,6 +60,3 @@ This project implements a basic keylogger using Python's `pynput` library to cap
 
 This project is intended for educational purposes only. Unauthorized use of keyloggers is illegal and unethical. Use this project responsibly and only on systems where you have explicit permission to do so.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
